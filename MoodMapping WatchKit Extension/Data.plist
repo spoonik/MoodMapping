@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Strategies</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Chug a Glass of Water</string>
+			<key>line</key>
+			<string>The easiest health-boosting points ever—drink a glass of this magical, thirst-quenching, calorie-free drink we call water.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Got a Block? Walk around it!</string>
+			<key>line</key>
+			<string>At work, at home, before you grocery shop—wherever you stand, you&apos;re usually near a block. Walk around it for a Power-up! It only takes a few minutes.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Hug Yourself</string>
+			<key>line</key>
+			<string>Give yourself a hug or a pat on the arm or back while telling your body what a great job it&apos;s doing—just the way it is.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Let Your Hunger Be Your Guide</string>
+			<key>line</key>
+			<string>Eating when you are genuinely hungry or stopping eating when you’re no longer hungry.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The Sticky Chair</string>
+			<key>line</key>
+			<string>Battle this Bad Guy by standing up and taking a single step away from the chair or couch!</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The Self-Critic</string>
+			<key>line</key>
+			<string>Unless you’re a standup comic or training to be a kick boxer, there’s really no reason to beat yourself up.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Step into the Mood Elevator</string>
+			<key>line</key>
+			<string>Give yourself a mood boost by doing a quick Google image search for &quot;baby [your favorite animal].&quot;</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Take a Tiny Step</string>
+			<key>line</key>
+			<string>What’s one thing that you know helps you feel better?</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Take a Tiny Step</string>
+			<key>line</key>
+			<string>What reliably gives you a lift?</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Take a Tiny Step</string>
+			<key>line</key>
+			<string>What new habit would you like to create?</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Take a Tiny Step</string>
+			<key>line</key>
+			<string>What’s a tiny step that you know would help you reach your goals if you stuck with it?</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Appreciating Nature</string>
+			<key>line</key>
+			<string>Looking at nature builds the soul. Spend some time looking at the beauty of nature that&apos;s all around you.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Breathe</string>
+			<key>line</key>
+			<string>Stop, and take 5 or 10 breaths. Be mindful of each, and allow the focus on the breath to calm the mind.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Commentary</string>
+			<key>line</key>
+			<string>Write a well thought out, positive comment on a forum or message board somewhere.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Factor in Fruit</string>
+			<key>line</key>
+			<string>Improve your diet by grabbing some fruit. Better still, replace something less healthy you were going to eat with fruit. It&apos;s just as tasty, and much better for you!</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Hug a Friend</string>
+			<key>line</key>
+			<string>Get all touchy-feely and hug a friend.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Lipstick It</string>
+			<key>line</key>
+			<string>Wear lipstick today.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Let&apos;s Do a Time Warp</string>
+			<key>line</key>
+			<string>...Again. Go on, have a dance to the Time Warp: - or to any other lively song for that matter.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Lurve Letters</string>
+			<key>line</key>
+			<string>Text something silly or sweet to a loved one.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Massage</string>
+			<key>line</key>
+			<string>Treat yourself to a massage. This can be a professional massage, one from a friend or loved one, or just spending some time rubbing your own feet.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Mini Walk</string>
+			<key>line</key>
+			<string>Walk just a little further than usual. This can be as small as getting off the bus one stop earlier or later than usual. Even a few extra steps count.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Movie Night</string>
+			<key>line</key>
+			<string>Watch a documentary or movie. And really watch it, use some mindfulness to be sure you aren&apos;t actually elsewhere.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Posturing</string>
+			<key>line</key>
+			<string>Focus on sitting up straight for five minutes or one song or while interacting with someone.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Practical Progress</string>
+			<key>line</key>
+			<string>Do something practical to help improve the space around you. For example, clean the floor, or wash the dishes, or change the bed... it doesn&apos;t need to be a big thing to help make the apartment a better place to be.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Scented Pleasures</string>
+			<key>line</key>
+			<string>Boost your enjoyment of your environment by using scents. Light a scented candle, use scented cream, smell essential oils, or use joss sticks to enhance the room.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Stepping Up</string>
+			<key>line</key>
+			<string>Walk up at least one flight of stairs rather than using the elevator or escalator.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Stretch</string>
+			<key>line</key>
+			<string>Get up and stretch!</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Sunshine on Your Shoulders</string>
+			<key>line</key>
+			<string>Sit somewhere sunny for at least 10 minutes. Don&apos;t forget the sunscreen if it&apos;s longer!</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Dear Diary</string>
+			<key>line</key>
+			<string>Write a journal entry.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The Funky Fridge</string>
+			<key>line</key>
+			<string>Continuing the goal of improving your environment by cleaning the apartment - next on the list is to clean the fridge!</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Letters from Antiquity</string>
+			<key>line</key>
+			<string>Write to someone you haven&apos;t talked to in quite a while.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Meditation</string>
+			<key>line</key>
+			<string>Meditate for at least 10 minutes, using any form of meditation that suits you. For example you could sit and focus on your breath, counting to 10, then repeating.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Supa Fry</string>
+			<key>line</key>
+			<string>Find a new recipe and cook it.</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>A Walk in the Park</string>
+			<key>line</key>
+			<string>Or on the beach, or down the road, or anywhere really. The important part is that it&apos;s time to get some real exercise. So let&apos;s go for a walk! Ideally, find somewhere pleasant and uplifting to walk, and keep going for at least an hour. But even half an hour will do, just get moving!</string>
+		</dict>
+	</array>
+</dict>
+</plist>
